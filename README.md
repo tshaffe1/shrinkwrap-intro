@@ -1,7 +1,10 @@
-Introduction to CVMFS Shrinkwrap
-================================
+Shrinkwrap: Creating HPC Containers
+===================================
 
-Material for the [CernVM Workshop 2019](https://indico.cern.ch/e/cvm19)
+Material for the
+[talk](https://indico.cern.ch/event/757415/contributions/3421537/)
+at the
+[CernVM Workshop 2019](https://indico.cern.ch/e/cvm19).
 
 
 - What is Shrinkwrap?
