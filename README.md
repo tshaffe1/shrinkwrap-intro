@@ -11,23 +11,9 @@ at the
 - Compared to UnCVMFS and rsync
 - Use Cases
 - [Downloading and Building](install.md) **(Nick)**
-- Setup **(Nick)**
-  + Config files
-  + Keys
-- Specifications **(Nick)**
-  + Selecting Revisions
-  + Full Repo (example, and simple exclusions)
-  + Hand-written specs
-  + Tracing (support in FUSE module, Parrot)
-- Shrinkwrap Usage **(Tim)**
-  + Basic invocation
-  + Rough Performance
-  + Efficient Updates
-- Building Containers **(Tim)**
-  + SquashFS
-  + Docker
-  + Singularity
-- Managing Images **(Tim)**
-  + Full-repo copies
-  + Per-job creation
-  + Shared images
+- [Setup](setup.md) **(Nick)**
+- [Specifications](spec.md) **(Nick)**
+- [Shrinkwrap Usage](usage.md) **(Tim)**
+- [Building Containers](containers.md) **(Tim)**
+- [Managing Images](management.md) **(Tim)**
+
