@@ -6,10 +6,8 @@ Material for the
 at the
 [CernVM Workshop 2019](https://indico.cern.ch/e/cvm19).
 
-
-- What is Shrinkwrap?
-- Compared to UnCVMFS and rsync
-- Use Cases
+- [Intro](intro.md) **(Tim)**
+- [Design](design.md) **(Nick)**
 - [Downloading and Building](install.md) **(Nick)**
 - [Setup](setup.md) **(Nick)**
 - [Specifications](spec.md) **(Nick)**
