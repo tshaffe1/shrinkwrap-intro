@@ -10,7 +10,7 @@ at the
 - What is Shrinkwrap?
 - Compared to UnCVMFS and rsync
 - Use Cases
-- Downloading and Building **(Nick)**
+- [Downloading and Building](install.md) **(Nick)**
 - Setup **(Nick)**
   + Config files
   + Keys
