@@ -15,7 +15,8 @@ Run Shrinkwrap as
         --dest-base $OUTDIR \
         --threads 16
 
-Full set of available options:
+Available Options
+=================
 
     $ cvmfs_shrinkwrap --help
     CernVM File System Shrinkwrapper, version 2.6.0
