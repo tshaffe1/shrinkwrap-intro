@@ -58,24 +58,10 @@ containing the content-addressed files for deduplication.
 
 | **File Path** | **Description** |
 | --- | --- |
-|``/tmp/cvmfs`` |  **Default base directory** 
-  Single mount point that can be used to  
-  package repositories, containing both the 
-  directory tree and the data directory. |
-| --- | --- |
-| ``<base>/<fqrn>`` | **Repository file tree** 
-|                    Directory containing the visible structure 
-|                    and file names for a repository. |
-| --- | --- |
-| ``<base>/.data`` | **File storage location for repositories** 
-|                    Content-addressed files in a hidden 
-|                    directory. |
-|--- | --- |
-| ``<base>/.provenance`` | **Storage location for provenance** 
-|                         Hidden directory that stores the provenance 
-|                         information, including ``libcvmfs`` 
-|                         configurations and specification files. |
-| --- | --- |
+|``/tmp/cvmfs`` |  **Default base directory** Single mount point that can be used to package repositories, containing both the directory tree and the data directory. |
+| ``<base>/<fqrn>`` | **Repository file tree** Directory containing the visible structure and file names for a repository. |
+| ``<base>/.data`` | **File storage location for repositories** Content-addressed files in a hidden directory. |
+| ``<base>/.provenance`` | **Storage location for provenance** Hidden directory that stores the provenance information, including `libcvmfs` configurations and specification files. |
 
 
 Notes
