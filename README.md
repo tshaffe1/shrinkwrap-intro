@@ -6,12 +6,10 @@ Material for the
 at the
 [CernVM Workshop 2019](https://indico.cern.ch/e/cvm19).
 
-- [Intro](intro.md) **(Tim)**
-- [Design](design.md) **(Nick)**
-- [Downloading and Building](install.md) **(Nick)**
-- [Setup](setup.md) **(Nick)**
-- [Specifications](spec.md) **(Nick)**
-- [Shrinkwrap Usage](usage.md) **(Tim)**
-- [Building Containers](containers.md) **(Tim)**
-- [Managing Images](management.md) **(Tim)**
-
+- [Intro](intro.md)
+- [Downloading and Building](install.md)
+- [Design](design.md)
+- [Setup](setup.md)
+- [Shrinkwrap Usage](usage.md)
+- [Specifications](spec.md)
+- [Building Containers](containers.md)
