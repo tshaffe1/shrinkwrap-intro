@@ -1,8 +1,6 @@
 Selecting Repo and Revision
 ===========================
 
-TODO
-
 Config file sets repo to use
 
 Full Repo (example, and simple exclusions)
