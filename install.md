@@ -1,9 +1,9 @@
 Building from Source
 ====================
 
-From source: follow the usual instructions
+Building from source follows the usual instructions.
 
-Pass `-DBUILD_SHRINKWRAP=on` to cmake
+Pass `-DBUILD_SHRINKWRAP=on` to cmake to enable this feature.
 
 See also: [Shrinkwrap Installation](https://cvmfs.readthedocs.io/en/stable/cpt-shrinkwrap.html#installation)
 
@@ -11,8 +11,8 @@ See also: [Shrinkwrap Installation](https://cvmfs.readthedocs.io/en/stable/cpt-s
 Package Installation
 ====================
 
-Easier option: just install the `cvmfs-shrinkwrap` package for RHEL and Debian based platforms
+On Red Hat and Debian based platforms, it's easier to install the package.
 
-Need to have CVMFS repo set up
+Assuming the CMVFS repo is configured, install the `cvmfs-shrinkwrap` package with your favorite package manager.
 
 See also: [General CVMFS Installation](https://cvmfs.readthedocs.io/en/stable/cpt-quickstart.html)
