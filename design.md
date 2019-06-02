@@ -46,7 +46,7 @@ further eliminating duplication.
 The overall design of Shrinkwrap.
 
 CernVM-FS Shrinkwrap Layout
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===========================
 
 The structure used in the Shrinkwrap output mirrors that used internally
 by CernVM-FS. The visible files are hardlinked to a hidden data directory.
